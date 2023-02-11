@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+
 <html lang="en">
 
 <head>
@@ -21,7 +21,7 @@
 
 <body>
     {{ View::make('header') }}
-    {{-- -------------------------main body----------------------- --}}
+    
     <div class="box">
         <div class="main">
             <div class="main1">
